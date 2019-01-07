@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "react": "16.6.3",
+    "react-native": "^0.57.8"
+  },
+  "name": "react-native-social-login",
+  "description": "Easy to use component for authenticating users with various social providers (port from react-social-login)",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakaggarwal7/react-native-social-login.git"
+  },
+  "keywords": [
+    "SocialLogin",
+    "ReactNative",
+    "Facebook"
+  ],
+  "author": "Deepak Aggarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakaggarwal7/react-native-social-login/issues"
+  },
+  "homepage": "https://github.com/deepakaggarwal7/react-native-social-login#readme"
+}
